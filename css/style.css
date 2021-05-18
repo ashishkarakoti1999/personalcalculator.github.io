@@ -1,0 +1,31 @@
+.nav-font1
+{
+	color:blue!important;
+	padding-left:70px!important;
+	font-size:15px;
+}
+
+.nav-font
+{
+	padding-left:20px!important;
+	font-size:15px;
+	color:#515252!important;
+}
+
+.nav-icon
+{
+	font-size:25px!important;
+	color:#515252!important;
+	padding-top:10px;
+	padding-right:10px;
+
+}
+
+.caption-font
+{
+	font-size:30px!important;
+	font-weight:400;
+	font-style: italic;
+	margin-top:-200px;
+	padding-left:133px;
+}
